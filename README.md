@@ -1,3 +1,5 @@
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 # 🛒 Amazon Clone
 
 A responsive Amazon homepage clone built using **HTML** and **CSS**. This project recreates the look and feel of Amazon's landing page, including the navigation bar, hero section, shopping categories, and footer.
@@ -8,8 +10,7 @@ A responsive Amazon homepage clone built using **HTML** and **CSS**. This projec
 
 # 📸 Preview
 
-<img width="1897" height="879" alt="image" src="https://github.com/user-attachments/assets/5fe1a638-a736-4581-9548-5ebd195a2945" />
-<img width="1901" height="872" alt="{EE8EF002-A8A0-4B60-BB91-F536E050345F}" src="https://github.com/user-attachments/assets/5d674a7a-f302-406b-8942-e12164fc9e51" />
+![Amazon Clone Preview](Preview.png)
 
 # ✨ Features
 
